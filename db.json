@@ -6,20 +6,20 @@
           "cidade": "Chapecó",
           "estado": "SC",
           "status": "Início"
-          "tipo": "" },
+          "tipo"  : "" },
       {
           "_id": 2,
           "nomeCompleto": "Beto Carreiro",
           "cidade": "Penha",
           "estado": "SC",
           "status": "Finalizado"
-          "tipo": "Manutenção Preventiva" },
+          "tipo"  : "Manutenção Preventiva" },
       {
           "_id": 3,
           "nomeCompleto": "Osmarildo",
           "cidade": "Rio Do Que",
           "estado": "PR",
           "status": "Status não padrão"
-          "tipo":   "Manutenção Corretiva" },
+          "tipo"  : "Manutenção Corretiva" },
     ]
   }
