@@ -1,0 +1,22 @@
+{
+    "cadastros": [
+      {
+          "_id": 1,
+          "nomeCompleto": "Arlindo Cruz",
+          "cidade": "Chapecó",
+          "estado": "SC",
+          "status": "Início"},
+      {
+          "_id": 2,
+          "nomeCompleto": "Beto Carreiro",
+          "cidade": "Penha",
+          "estado": "SC",
+          "status": "Finalizado"},
+      {
+          "_id": 3,
+          "nomeCompleto": "Osmarildo",
+          "cidade": "Rio Do Que",
+          "estado": "PR",
+          "status": "Status não padrão"}
+    ]
+  }
